@@ -1,0 +1,5 @@
+module ZLibC {
+  umbrella header "ZLibC.h"
+
+  export *
+}
